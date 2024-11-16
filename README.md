@@ -17,18 +17,23 @@ Laporan ini menjelaskan aplikasi Java berbasis GUI menggunakan Java Swing dan JP
 
 
 3. Membuat Jframe baru untuk form Login
-   ![image](https://github.com/user-attachments/assets/b774a0ff-9899-4d1f-87cb-149ed471f392)
+  
+    ![image](https://github.com/user-attachments/assets/b774a0ff-9899-4d1f-87cb-149ed471f392)
 
 
 4. Membuat entity class from database ‘MataKuliah’ untuk table `login`
    ![image](https://github.com/user-attachments/assets/707b7fa1-8fcc-48e4-907f-b1f00e1d5c2a)
 
+
+
 5. Memilih database ‘MataKuliah’ dan Table ‘login’
    ![image](https://github.com/user-attachments/assets/e27d55cd-053a-4188-b49c-412690eae512)
 
-
 6. Maka  pada package MataKuliah terdapat entity classes baru yaitu `Login_1`
+
+
    ![image](https://github.com/user-attachments/assets/fe74e6b2-fe56-47a8-80cb-d78aa488013f)
+
 
 
 7. Memasukkan source code pada button ‘Login’
